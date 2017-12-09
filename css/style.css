@@ -1,0 +1,149 @@
+a {
+    color: #f3f3f3 !important;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #2D2E37;
+}
+
+.top-nav-btc {
+    margin: 15px;
+    color: #fafafa;
+    border-right: 1px solid #fafafa;
+}
+
+header{
+    background-color: #283649;
+}
+
+.nav-bar{
+    background-color: transparent;
+    color: #fafafa;
+    border-bottom: 1px solid #1f2b3b;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    margin-bottom: 0;
+}
+
+.navbar-title:hover {
+   color: #485e7c !important;
+}
+
+li a{
+    padding-bottom: 30px !important;
+}
+
+li a:hover{
+    background-color: #485e7c !important;
+}
+
+.create-account {
+    border: 2px solid #485e7c;
+    border-radius: 10px;
+    margin-top: 10px !important;
+}
+
+.create-account a {
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+}
+
+.slider {
+    background-color: #485e7c !important;
+    min-height: 480px;
+}
+
+.col1row1 {
+    color: #fafafa;
+    margin-top: 60px;
+}
+
+.col1row1 h2 {
+    display: flex;
+    align-content: center;
+  
+}
+
+.col1row1 button {
+    min-width: 150px;
+    min-height: 50px;
+}
+
+.btn-exchange {
+    background-color: transparent;
+    border-color: #fafafa;
+}
+
+.col2row1 {
+    background: url('../img/slide-img.png') no-repeat;
+    background-size: cover;
+    margin-top: 60px;
+    height: 400px;
+}
+
+.quick-banner {
+    background-color: #1f2b3b;
+    color: #fafafa;
+    overflow: hidden;
+}
+
+.lower-section {
+    background-color: #EEF2F5 !important;
+    margin-top: 30px;
+    clear: both;
+    margin-top: 0;
+    overflow: hidden;
+}
+
+.card {
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+    /* transition: 0.3s; */
+    background-color: #FFFFFF !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.bitcoin-icon {
+    margin-top: 40px;
+    font-size: 120px;
+}
+
+.bar-icon {
+    margin-top: 40px;
+    font-size: 120px;
+}
+
+footer {
+    padding-top: 15px;
+    background-color: #485E7C;
+    min-height: 200px;
+    color: #fafafa;
+}
+
+.lower-footer {
+    background-color: #1F2B3B;
+    color: #fafafa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
